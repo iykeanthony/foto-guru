@@ -1,0 +1,37 @@
+header{
+	background-image: url('images/camera.jpg');
+	min-height: 700px;
+	background-position: center;
+	background-size: cover;
+}
+
+.image-overlay{
+	background: rgba(0, 0, 0, 0.6);
+	min-height: 700px;
+}
+
+.row-margin{
+	margin-top: 80px;
+}
+
+#about{
+	background-color: #313331;
+	color: #ffffff;
+	margin-top: 60px;
+	padding-bottom: 30px;
+}
+
+#quote{
+	background-color: #313331;
+	color: #ffffff;
+	margin-top: 50px;
+	padding-bottom: 25px;
+}
+
+
+footer{
+	background-color: #313331;
+	color: #ffffff;
+	margin-top: 50px;
+	padding-bottom: 25px 0;
+}
